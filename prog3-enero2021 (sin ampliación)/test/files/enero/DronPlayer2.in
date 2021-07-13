@@ -1,0 +1,5 @@
+put aircraft.Dron EAST 0 0 0
+put aircraft.Fighter SOUTH 0 1 3
+endput
+shoot 2 2 0
+exit

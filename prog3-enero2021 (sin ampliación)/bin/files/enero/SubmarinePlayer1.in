@@ -1,0 +1,4 @@
+put ship.Submarine EAST 0 0
+endput
+shoot 2 2
+exit

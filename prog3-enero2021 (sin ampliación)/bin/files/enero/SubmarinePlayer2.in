@@ -1,0 +1,5 @@
+put ship.Submarine EAST 0 0
+put ship.Cruiser EAST 2 3
+endput
+shoot 2 2
+exit

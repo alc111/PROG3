@@ -1,0 +1,7 @@
+put ship.Carrier NORTH 1 1 0
+put ship.Destroyer EAST 3 -2 3
+put aircraft.Fighter SOUTH 0 1 2
+put aircraft.Bomber WEST -1 1 5
+endput
+put ship.Destroyer SOUTH 3 3 3
+exit

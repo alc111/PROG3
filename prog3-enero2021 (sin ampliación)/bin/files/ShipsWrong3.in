@@ -1,0 +1,2 @@
+put ship.Battleship NORTH 0 0
+put aircraft.Fighter SOUTH -1 0 5
