@@ -12,7 +12,7 @@ import model.exceptions.OccupiedCoordinateException;
 /**
  * CLASE BOARD: REPRESENTA EL TABLERO EN EL JUEGO DE HUNDIR LA FLOTA
  * @author Angel Leon Cerdan
- *
+ * aaaaaaaaaa
  */
 
 public abstract class Board {
